@@ -1,0 +1,86 @@
+body {
+    background-color: lightgrey;
+    text-align: center;
+}
+.github {
+height: 60px;
+width: 70px;
+}
+.discord {
+    height: 55px;
+    width: 70px;
+}
+.project {
+border-radius: 10px;
+border: solid black 5px;
+width: 260px;
+background-color:rgb(46, 46, 46);
+color: white;
+}
+._31 {
+    align-items: center;
+}
+.banner {
+    height: 100px;
+    width: 260px;
+}
+.join {
+    background-color: var(--bg-button-dark);
+    color: var(--button-text);
+    transition: all .2s!important;
+}
+
+.join {
+    width: 48%!important;
+    align-items: center;
+    color: lightslategrey;
+}
+.join:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    background-color: rgb(31, 31, 31);
+}
+.join:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+.join-join {
+    background-color: var(--bg-button-dark);
+    color: var(--button-text);
+    transition: all .2s!important;
+}
+.join-join {
+    width: 48%!important;
+    align-items: center;
+}
+.join {
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.5;
+    display: inline-block;
+    padding: .625rem 1.25rem;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    transition: all .6s;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    border-radius: .375rem;
+}
+.join {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
